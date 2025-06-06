@@ -1,24 +1,45 @@
 # Global Solutions - Android Kotlin 3-SIS
 
 ## Integrantes
-### Alana Carolayne Moreira Siqueira rm:552261
-### Ana Júlia Henriques Neves rm:98263
+- **Alana Carolayne Moreira Siqueira** – RM: 552261  
+- **Ana Júlia Henriques Neves** – RM: 98263
 
-### Prints das telas
+---
 
-##### Tela inicial
-![img.png](img.png)
-##### Adicionando o 1° evento
-![img_1.png](img_1.png)
-##### Testando numero de pessoas afetadas igual a 0
-![img_2.png](img_2.png)
-##### Testando campo vazio
-![img_3.png](img_3.png)
-##### Adicionando o 3° evento
-![img_4.png](img_4.png)
-##### Excluindo o 2° evento
-![img_5.png](img_5.png)
+## ✨ Funcionalidade Extra
+Adicionamos a **contagem total de eventos cadastrados** ao app ✅
 
+---
 
-## Funcionalidade extra
-### Adicinamos a contagem total de eventos cadastrados
+## 📱 Prints das Telas
+
+### 🏠 Tela Inicial  
+<p align="center">
+  <img src="img.png" width="320"/>
+</p>
+
+### ➕ Adicionando o 1° Evento  
+<p align="center">
+  <img src="img_1.png" width="320"/>
+</p>
+
+### ⚠️ Teste: Número de Pessoas Atingidas = 0  
+<p align="center">
+  <img src="img_2.png" width="320"/>
+</p>
+
+### ⚠️ Teste: Campo Vazio  
+<p align="center">
+  <img src="img_3.png" width="320"/>
+</p>
+
+### ➕ Adicionando o 3° Evento  
+<p align="center">
+  <img src="img_4.png" width="320"/>
+</p>
+
+### 🗑️ Excluindo o 2° Evento  
+<p align="center">
+  <img src="img_5.png" width="320"/>
+</p>
+
